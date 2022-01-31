@@ -1,0 +1,18 @@
+######################################################################
+	Assignment 4 - Resizing the Stack
+	CMPS 3013
+	Ashton Webb
+
+	Config Params: 
+	  Full Threshold: 1
+	  Shrink Threshold: 0.15
+	  Grow Ratio: 2
+	  Shrink Ratio: 0.5
+
+	Processed 100000 commands.
+
+	Max Stack Size: 1280
+	End Stack Size: 1280
+	Stack Resized: 234 times.
+
+######################################################################
