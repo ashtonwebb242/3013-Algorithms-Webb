@@ -1,4 +1,24 @@
-
+/**************************************************************************************
+*                    
+*  Author:           Ashton Webb
+*  Email:            ashtonwebb46@gmail.com 
+*  Label:            P02
+*  Title:            Linear Dictionary Lookup
+*  Course:           CMPS 3013
+*  Semester:         Spring 2022
+* 
+* Description:
+*    Allows the user type in a tring of letters a letter at a time, then searches a 
+*      dictionary of words for possible matches. 
+*
+* Files: 
+*      main.cpp
+*      tempcolor.hpp
+*      timer.hpp
+*      dictionary.txt
+*      
+* 
+**************************************************************************************/
 #include <algorithm>
 #include <fstream>
 #include <iostream>
