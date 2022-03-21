@@ -1,17 +1,17 @@
-# PO2- Linear Dictionary Lookup
+# PO1 Resizeable Stack
 Ashton Webb
 
 Description:
-This program lets the user ype in a string a letter at a time and search a dictionary of words for possible a possible match.
-
+This program creates a resizeable stack.
 
 Files
 |# |File         | Assignment Description              |
 |--|-------------|-------------------------------------|
 |1 |[main.cpp]   | Main driver of the program.         |
-|2 |[termcolor.hpp]   |class to change collor of the terminal       |
-|3 |[timer.hpp] | A class to time the program|
-|4 |[dictionary.txt] | A dictionary of words.|
+|2 |[nums.dat]   |numbers to be read in       |
+|3 |[nums_test.dat] | test data |
+|4 |[myTest.dat] | numberes to be read in.|
+|5 |[output.txt] | Formatted output                       |
 
 Instructions:
-Run the program and type in a word of your choosing. While typing you should see possible matches and suggestion.
+Run the program and it will read in integers. Even pushes on the stack and odd pops.
